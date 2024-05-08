@@ -1,2 +1,2 @@
 # Django-Practice-Coding-Part-2
-Bryan Jay Balona's Django Practice Coding Part 2
+Repository for Balona_Django Practice Coding Part 2 activity CSDC105 N1am
